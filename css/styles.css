@@ -1,0 +1,9 @@
+ul {
+  list-style-type: none;
+}
+
+.header-list {
+  display:inline-block;
+  float: right;
+  margin-left: 10px;
+}
