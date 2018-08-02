@@ -26,6 +26,24 @@ hr{
   margin-top: 0;
 }
 
-.sidebar {
+.container {
   border-left: 1px solid black;
+}
+
+.featured {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.info {
+  background-color: #eaf7fb;
+}
+.lightgreen{
+  background-color: #edf7ed;
+}
+.pink {
+  background-color: #ff66b3;
+}
+.lightpink {
+  background-color: #ffe6f2;
 }
